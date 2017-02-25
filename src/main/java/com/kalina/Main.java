@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static void printPassedArgs(String[] args) {
-        System.out.println(args[0]);
+        System.out.println(args[3]);
     }
 }
