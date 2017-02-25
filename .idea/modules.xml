@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testkalinajava.iml" filepath="$PROJECT_DIR$/.idea/modules/testkalinajava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testkalinajava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testkalinajava_main.iml" group="testkalinajava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testkalinajava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testkalinajava_test.iml" group="testkalinajava" />
+    </modules>
+  </component>
+</project>
